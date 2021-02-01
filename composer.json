@@ -1,0 +1,28 @@
+{
+  "name": "simpsyst/paginator",
+  "description": "Paginator is simple and is ready to generate results navigation in your application",
+  "keywords": [
+    "SimpSyst",
+    "Compusert",
+    "Diego Matos",
+    "Pagination",
+    "Paginator"
+  ],
+  "homepage": "http://www.diegomatos.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Diego Matos",
+      "email": "oi@diegomatos.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "SimpSyst\\Paginator\\": "src"
+    }
+  }
+}
