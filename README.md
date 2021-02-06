@@ -35,13 +35,13 @@ SimpSyst é um conjunto de pequenos e otimizados componentes PHP para tarefas co
 Paginator is available via Composer:
 
 ```bash
-"simpsyst/paginator": "1.0.*"
+"simpsyst/paginator": "dev-main"
 ```
 
 or run
 
 ```bash
-composer require simpsyst/paginator
+composer require simpsyst/paginator:dev-main
 ```
 
 ## Documentation
